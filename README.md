@@ -12,7 +12,7 @@ banger
 
 | Campion | Monday | Wednesday | Friday |
 |-- | ------- |--------|--------|
-| 7:30 - 8:00 | [Homeroom/Assembly](https://meet.google.com/vxc-wjwt-qar) | [Homeroom/Assembly](https://meet.google.com/vxc-wjwt-qar)| [Homeroom/Assembly](https://meet.google.com/vxc-wjwt-qar) | |
+| 7:30 - 8:00 | [Homeroom/Assembly](https://meet.google.com/vxc-wjwt-qar) | [Homeroom/Assembly](https://meet.google.com/vxc-wjwt-qar)| [Homeroom/Assembly](https://meet.google.com/vxc-wjwt-qar) |
 | 8:00 - 8:45 | [Filipino](http://meet.google.com/cov-qdmp-oeb) | [Math](https://meet.google.com/ryj-uirv-fyi) | [Math](https://meet.google.com/ryj-uirv-fyi) |
 | 9:00 - 9:45 | [Filipino](http://meet.google.com/cov-qdmp-oeb) | [Filipino](http://meet.google.com/cov-qdmp-oeb) | [Math](https://meet.google.com/ryj-uirv-fyi) |
 | 10:00 - 10:45 | [Math](https://meet.google.com/ryj-uirv-fyi) | [CLE](https://meet.google.com/dof-hyim-jmk) | [CLE](https://meet.google.com/dof-hyim-jmk) |
