@@ -26,7 +26,7 @@ banger
 | 8:00 - 8:45 | [English](https://meet.google.com/kwa-foqe-cyo) | [PE & Health](https://meet.google.com/euq-mehm-ggn) | [Science](https://meet.google.com/zdq-kicu-arj) |
 | 9:00 - 9:45 | [PE & Health (Merged)](https://meet.google.com/sdj-vfhg-zzd) | [Science](https://meet.google.com/zdq-kicu-arj) | [Science](https://meet.google.com/zdq-kicu-arj) |
 | 10:00 - 10:45 | [Science](https://meet.google.com/zdq-kicu-arj) | [English](https://meet.google.com/kwa-foqe-cyo) | [English](https://meet.google.com/kwa-foqe-cyo) |
-| 11:00 - 11:45 | [Math](https://meet.google.com/ryj-uirv-fyi) | [Computer](https://meet.google.com/cym-wtwy-kxc) | [English](https://meet.google.com/kwa-foqe-cyo) |
+| 11:00 - 11:45 | - | [Computer](https://meet.google.com/cym-wtwy-kxc) | [English](https://meet.google.com/kwa-foqe-cyo) |
 | 12:45 - 1:30 | [Music & Arts](https://meet.google.com/jrj-aqoh-qxj) | [Music & Arts](https://meet.google.com/jrj-aqoh-qxj) | - |
 | 2:45 - 3:30 | - | - | [Computer](https://meet.google.com/cym-wtwy-kxc) |
 
