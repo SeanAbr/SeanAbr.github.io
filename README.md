@@ -50,7 +50,7 @@ banger
 
 ![Alt Text](https://c.tenor.com/1rkyTODR2qQAAAAi/rikka-takanashi-takanashi-rikka.gif)
 
-k;double sin()
+             k;double sin()
          ,cos();main(){float A=
        0,B=0,i,j,z[1760];char b[
      1760];printf("\x1b[2J");for(;;
@@ -71,4 +71,3 @@ in(B),t=c*h*g-f*        e;int x=40+30*D*
        ~::==!!!**********!!!==::-
          .,~~;;;========;;;:~-.
              ..,--------,*/
-
